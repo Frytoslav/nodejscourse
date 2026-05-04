@@ -1,0 +1,12 @@
+{
+  "name": "kurs-node-nestjs",
+  "version": "1.0.0",
+  "description": "Ten kurs jest zaprojektowany dla osoby, ktora zaczyna przygode z backendem. Nie zaklada znajomosci NestJS ani profesjonalnych wzorcow backendowych. Zaklada tylko podstawowa orientacje w JavaScript albo gotowosc do spokojnego przejscia przez fundamenty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
